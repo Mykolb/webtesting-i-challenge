@@ -1,0 +1,13 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": "https://github.com/Mykolb/webtesting-i-challenge.git",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
